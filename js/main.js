@@ -53,13 +53,3 @@ console.log("megahed")
 
 
 
-function clicking(){
-    document.addEventListener("click",(e)=>{
-        console.log("osama")
-        // console.log(e)
-        console.log(e.clientX)
-        console.log(e.clientY)
-    })
-    
-}
-clicking()
